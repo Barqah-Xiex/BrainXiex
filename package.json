@@ -1,0 +1,26 @@
+{
+  "name": "brainxiex",
+  "version": "1.0.0",
+  "description": "Brainxiex library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barqah-Xiex/brainxiex.git"
+  },
+  "keywords": [
+    "brainxiex",
+    "api"
+  ],
+  "author": "barqah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barqah-Xiex/brainxiex/issues"
+  },
+  "homepage": "https://github.com/Barqah-Xiex/brainxiex#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
